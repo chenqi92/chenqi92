@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chen%20Qi&fontSize=80&fontAlignY=35&animation=fadeIn)
-  
   [![我的网站](https://img.shields.io/badge/个人网站-www.allbs.cn-blue?style=for-the-badge&logo=world&logoColor=white)](https://www.allbs.cn)
   [![南京](https://img.shields.io/badge/🏙️-江苏南京-orange?style=for-the-badge)](https://www.allbs.cn)
 
@@ -23,7 +21,7 @@
 
 | 项目 | 状态 | 描述 |
 | --- | --- | --- |
-| [g2.al](https://g2.al) | 🏗️ 建设中 | 短域名+随机邮箱+导航+今日热榜 |
+| [g2.al](https://g2.al) | 🏗️ 建设中 | 短域名+随机邮箱+导航+今日热榜+备忘录 |
 | [blog.allbs.cn](https://blog.allbs.cn) | 🔄 持续维护 | 技术博客，分享开发心得与经验 |
 | [yzs.ai](https://yzs.ai) | 🏗️ 建设中 | AI聚合站，一站式AI工具集合 |
 | [soundisle.com](https://soundisle.com) | 🏗️ 建设中 | 智能广播剧，让声音充满魔力 |
@@ -57,14 +55,6 @@
   
   [![Email](https://img.shields.io/badge/📧-contact@yzs.ai-red?style=for-the-badge)](mailto:contact@yzs.ai)
   [![GitHub](https://img.shields.io/badge/GitHub-@chenqi92-lightgrey?style=for-the-badge&logo=github)](https://github.com/chenqi92)
-  
-</div>
-
-<div align="center">
-  
-  ### 🌟 星星越多，动力越大 🌟
-  
-  ![访问次数](https://profile-counter.glitch.me/chenqi92/count.svg)
   
 </div>
 
