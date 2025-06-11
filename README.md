@@ -36,7 +36,8 @@
   [![alltobs-oss](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=alltobs-oss&theme=radical)](https://github.com/chenqi92/alltobs-oss)
   
   [![CloneS3toS3](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=CloneS3toS3&theme=radical)](https://github.com/chenqi92/CloneS3toS3)
-  [![allbs-mini](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=allbs-mini&theme=radical)](https://github.com/chenqi92/allbs-mini)
+  [![g2.al](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=url-stash-vault&theme=radical)](https://github.com/chenqi92/url-stash-vault)
+  [![script-collection](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=script-collection&theme=radical)](https://github.com/chenqi92/script-collection)
   
 </div>
 
