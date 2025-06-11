@@ -30,7 +30,7 @@
 
 ### ⭐ 历史开源
 
-<div align="center">
+<div align="left">
   
   [![allbs-model](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=allbs-model&theme=radical)](https://github.com/chenqi92/allbs-model)
   [![alltobs-oss](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=alltobs-oss&theme=radical)](https://github.com/chenqi92/alltobs-oss)
