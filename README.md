@@ -26,20 +26,8 @@
 | [yzs.ai](https://yzs.ai) | 🏗️ 建设中 | AI聚合站，一站式AI工具集合 |
 | [soundisle.com](https://soundisle.com) | 🏗️ 建设中 | 智能广播剧，让声音充满魔力 |
 | [playdemo.app](https://playdemo.app) | 📝 规划中 | demo演示站，创意无限可能 |
-| [imanf](https://imanf.com) | 📝 规划中 | 爱漫画，漫画爱好者的天堂 |
+| [imanf](https://imanf.com) | 🏗️ 建设中 | 爱漫画，漫画爱好者的天堂 |
 
-### ⭐ 历史开源
-
-<div align="left">
-  
-  [![allbs-model](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=allbs-model&theme=radical)](https://github.com/chenqi92/allbs-model)
-  [![alltobs-oss](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=alltobs-oss&theme=radical)](https://github.com/chenqi92/alltobs-oss)
-  
-  [![CloneS3toS3](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=CloneS3toS3&theme=radical)](https://github.com/chenqi92/CloneS3toS3)
-  [![g2.al](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=url-stash-vault&theme=radical)](https://github.com/chenqi92/url-stash-vault)
-  [![script-collection](https://github-readme-stats.vercel.app/api/pin/?username=chenqi92&repo=script-collection&theme=radical)](https://github.com/chenqi92/script-collection)
-  
-</div>
 
 ### 📊 我的代码轨迹
 
