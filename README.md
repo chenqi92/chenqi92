@@ -21,6 +21,7 @@
 
 | 项目 | 状态 | 描述 |
 | --- | --- | --- |
+｜Inflowave｜🏗️ 建设中｜influxdb的连接工具，支持windows、macos、ubuntu｜
 | [g2.al](https://g2.al) | 🏗️ 建设中 | 短域名+随机邮箱+导航+今日热榜+备忘录 |
 | [blog.allbs.cn](https://blog.allbs.cn) | 🔄 持续维护 | 技术博客，分享开发心得与经验 |
 | [yzs.ai](https://yzs.ai) | 🏗️ 建设中 | AI聚合站，一站式AI工具集合 |
