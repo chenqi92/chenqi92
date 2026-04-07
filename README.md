@@ -1,62 +1,79 @@
-## 👨‍💻 欢迎来到我的代码世界！ 🚀
+# programApe
+
+**chenqi92** | 全栈开发者 | 专注高效工具与工程实践
 
 <div align="center">
-  
-  [![我的网站](https://img.shields.io/badge/个人网站-www.allbs.cn-blue?style=for-the-badge&logo=world&logoColor=white)](https://www.allbs.cn)
-  [![南京](https://img.shields.io/badge/🏙️-江苏南京-orange?style=for-the-badge)](https://www.allbs.cn)
-
+  <img src="https://readme.u14.app/api/github/stats?userId=ukjs7DwmWnraMfyditwj25ws6vOdz956" alt="GitHub Stats" width="48%" />
+  <img src="https://readme.u14.app/api/github/top-langs?userId=ukjs7DwmWnraMfyditwj25ws6vOdz956" alt="Top Languages" width="48%" />
 </div>
 
-### 🛠️ 技术栈
+## 技术栈
 
-```
-🌱 全栈开发 | 📱 小程序开发 | 🔥 分布式系统 | ☁️ 云原生 | 🤖 人工智能
-```
+### 语言
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-### 🚀 我的项目宝库
+### 前端与框架
+[![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
 
-| 项目 | 状态 | 描述 |
-| --- | --- | --- |
-| [Inflowave](https://github.com/chenqi92/inflowave) | 🏗️ 建设中 | influxdb的连接工具，支持windows、macos、ubuntu |
-| [blog.allbs.cn](https://blog.allbs.cn) | 🔄 持续维护 | 技术博客，分享开发心得与经验 |
-| [proto-tool](https://proto.kkape.com/) | 🏗️ 建设中 | 物联网小工具，tcp、udp的接收发送工具，将不同协议作为插件集成，直接对不同进行协议解析、储存。 |
-| [NanoLink](https://github.com/chenqi92/NanoLink) | 🔄 持续维护 | 轻量级、跨平台的服务器监控系统,支持指令控制，提供多端app |
+### 后端与工具
+[![MyBatis-Plus](https://img.shields.io/badge/-MyBatis--Plus-FF4D4D?style=for-the-badge&logo=java&logoColor=white)](https://baomidou.com)
+[![XXL-JOB](https://img.shields.io/badge/-XXL--JOB-FF9900?style=for-the-badge&logo=java&logoColor=white)](https://www.xuxueli.com/xxl-job)
 
+### 数据库与基础设施
+[![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com)
 
-### 📊 我的代码轨迹
+## 精选项目
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=52517845" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52517845&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @chenqi92" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52517845&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+### [allbs-model](https://github.com/chenqi92/allbs-model)
+**Java**  
+高斯烟羽、池火灾等模型计算，大气 AQI、水质等级计算。支持 JBF293K、GB26875、SFJK200 等报文解析与生成，以及随机生成个人身份信息等实用功能。  
+![Stars](https://img.shields.io/github/stars/chenqi92/allbs-model?style=flat-square&color=58A6FF)
 
-### 📫 联系我
+### [allbs-excel](https://github.com/chenqi92/allbs-excel)
+**Java**  
+注解式 Excel 导入导出库，支持嵌套类、合并单元格、数据脱敏、字段转换、导出图片与图表。提供可视化测试示例项目 [allbs-excel-test](https://github.com/chenqi92/allbs-excel-test)。  
+![Stars](https://img.shields.io/github/stars/chenqi92/allbs-excel?style=flat-square&color=58A6FF)
+
+### [delier-helper](https://github.com/chenqi92/delier-helper)
+**Vue**  
+交付工具集合，包含软著代码生成器、接口文档生成器、数据库文档生成器、ER 图生成、需求文档、设计文档、运维手册、测试用例等功能，并接入 AI 实现自动补全。  
+![Stars](https://img.shields.io/github/stars/chenqi92/delier-helper?style=flat-square&color=58A6FF)
+
+### [primuse](https://github.com/chenqi92/primuse)
+**Swift**  
+iOS 音乐应用，支持添加群晖等 NAS 音乐源，集成元数据刮削功能。  
+![Stars](https://img.shields.io/github/stars/chenqi92/primuse?style=flat-square&color=58A6FF)
+
+### [inflowave](https://github.com/chenqi92/inflowave)
+**TypeScript**  
+时序数据库可视化工具，支持 InfluxDB 1/2/3 及 IoTDB 连接，同时提供 MinIO 可视化管理界面，多平台打包发布。后续将扩展更多数据库支持。  
+![Stars](https://img.shields.io/github/stars/chenqi92/inflowave?style=flat-square&color=58A6FF)
+
+### [yuanyin](https://github.com/chenqi92/yuanyin)
+**C**  
+音乐相关工具项目。  
+![Stars](https://img.shields.io/github/stars/chenqi92/yuanyin?style=flat-square&color=58A6FF)
+
+## 贡献活动
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/📧-contact@yzs.ai-red?style=for-the-badge)](mailto:contact@yzs.ai)
-  [![GitHub](https://img.shields.io/badge/GitHub-@chenqi92-lightgrey?style=for-the-badge&logo=github)](https://github.com/chenqi92)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenqi92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!--
-**chenqi92/chenqi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+过去 90 天内活跃 75 天，覆盖 21 个公开仓库。主要贡献形式为代码提交，语言涉及 TypeScript、Java、Swift、Rust、Vue 等。
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!-- Copy-paste in your Readme.md file -->
+**chenqi92** · 55 个仓库 · 117 Stars · 49 Forks · 25 Followers
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+*最后更新于 2026 年*
