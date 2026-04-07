@@ -30,38 +30,6 @@
 ### 数据库与基础设施
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com)
 
-## 精选项目
-
-### [allbs-model](https://github.com/chenqi92/allbs-model)
-**Java**  
-高斯烟羽、池火灾等模型计算，大气 AQI、水质等级计算。支持 JBF293K、GB26875、SFJK200 等报文解析与生成，以及随机生成个人身份信息等实用功能。  
-![Stars](https://img.shields.io/github/stars/chenqi92/allbs-model?style=flat-square&color=58A6FF)
-
-### [allbs-excel](https://github.com/chenqi92/allbs-excel)
-**Java**  
-注解式 Excel 导入导出库，支持嵌套类、合并单元格、数据脱敏、字段转换、导出图片与图表。提供可视化测试示例项目 [allbs-excel-test](https://github.com/chenqi92/allbs-excel-test)。  
-![Stars](https://img.shields.io/github/stars/chenqi92/allbs-excel?style=flat-square&color=58A6FF)
-
-### [delier-helper](https://github.com/chenqi92/delier-helper)
-**Vue**  
-交付工具集合，包含软著代码生成器、接口文档生成器、数据库文档生成器、ER 图生成、需求文档、设计文档、运维手册、测试用例等功能，并接入 AI 实现自动补全。  
-![Stars](https://img.shields.io/github/stars/chenqi92/delier-helper?style=flat-square&color=58A6FF)
-
-### [primuse](https://github.com/chenqi92/primuse)
-**Swift**  
-iOS 音乐应用，支持添加群晖等 NAS 音乐源，集成元数据刮削功能。  
-![Stars](https://img.shields.io/github/stars/chenqi92/primuse?style=flat-square&color=58A6FF)
-
-### [inflowave](https://github.com/chenqi92/inflowave)
-**TypeScript**  
-时序数据库可视化工具，支持 InfluxDB 1/2/3 及 IoTDB 连接，同时提供 MinIO 可视化管理界面，多平台打包发布。后续将扩展更多数据库支持。  
-![Stars](https://img.shields.io/github/stars/chenqi92/inflowave?style=flat-square&color=58A6FF)
-
-### [yuanyin](https://github.com/chenqi92/yuanyin)
-**C**  
-音乐相关工具项目。  
-![Stars](https://img.shields.io/github/stars/chenqi92/yuanyin?style=flat-square&color=58A6FF)
-
 ## 贡献活动
 
 <div align="center">
