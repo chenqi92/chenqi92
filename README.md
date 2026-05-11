@@ -32,13 +32,12 @@
 
 ## 贡献活动
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenqi92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-过去 90 天内活跃 75 天，覆盖 21 个公开仓库。主要贡献形式为代码提交，语言涉及 TypeScript、Java、Swift、Rust、Vue 等。
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=52517845" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52517845&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @chenqi92" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52517845&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 ---
 
