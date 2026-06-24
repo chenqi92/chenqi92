@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" width="860" height="330" font-family="'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace">
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="859" height="329" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <!-- title bar -->
+  <rect x="1" y="1" width="858" height="40" rx="11" fill="#161b22"/>
+  <rect x="1" y="22" width="858" height="19" fill="#161b22"/>
+  <line x1="1" y1="41" x2="859" y2="41" stroke="#30363d"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="21" r="6" fill="#27c93f"/>
+  <text x="430" y="26" fill="#8b949e" font-size="13" text-anchor="middle">programApe@github: ~/dev — zsh</text>
+
+  <!-- prompt -->
+  <text x="26" y="82" font-size="15">
+    <tspan fill="#27c93f">$</tspan>
+    <tspan fill="#c9d1d9" dx="9">neofetch</tspan>
+  </text>
+
+  <!-- ascii monogram -->
+  <text x="118" y="208" font-size="92" font-weight="700" fill="#27c93f" text-anchor="middle">&gt;_</text>
+  <text x="118" y="246" font-size="15" fill="#8b949e" text-anchor="middle">programApe</text>
+
+  <!-- info block -->
+  <g font-size="14.5">
+    <text y="112"><tspan x="250" fill="#56b6c2">host</tspan><tspan x="372" fill="#abb2bf">Nanjing, China</tspan></text>
+    <text y="139"><tspan x="250" fill="#56b6c2">role</tspan><tspan x="372" fill="#abb2bf">full-stack developer</tspan></text>
+    <text y="166"><tspan x="250" fill="#56b6c2">stack</tspan><tspan x="372" fill="#abb2bf">Rust · TypeScript · Swift · Dart · Java</tspan></text>
+    <text y="193"><tspan x="250" fill="#56b6c2">desktop</tspan><tspan x="372" fill="#abb2bf">Tauri · Flutter · SwiftUI · Astro</tspan></text>
+    <text y="220"><tspan x="250" fill="#56b6c2">apps</tspan><tspan x="372" fill="#abb2bf">primuse · markio</tspan><tspan dx="14" fill="#27c93f">[ App Store ]</tspan></text>
+    <text y="247"><tspan x="250" fill="#56b6c2">web</tspan><tspan x="372" fill="#abb2bf">blog.allbs.cn</tspan></text>
+  </g>
+
+  <!-- blinking cursor -->
+  <text x="26" y="296" font-size="15"><tspan fill="#27c93f">$</tspan></text>
+  <rect x="44" y="285" width="9" height="15" fill="#27c93f">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
