@@ -44,13 +44,16 @@
 </td>
 <td width="33%" valign="top">
 
-<b>MeshDrop</b><br/><sub>全平台局域网快传</sub>
+<b>MeshDrop</b><br/><sub>跨平台局域网快传 · 类 AirDrop</sub>
 
-<sub>同一 Wi-Fi 下设备间快传文字与文件，无需云端，无需数据线。</sub>
+<sub>同一 Wi-Fi 下快传文字与文件，无需云端，各端原生实现。</sub>
 
 <a href="https://apps.apple.com/cn/app/meshdrop/id6772689903"><img height="46" src="./assets/badge-appstore.svg" alt="在 App Store 下载 MeshDrop" /></a>
 
-<sub>iOS · iPadOS · macOS · watchOS · visionOS</sub>
+<a href="https://github.com/chenqi92/share"><img height="20" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="meshdrop source" /></a>
+<img height="20" src="https://img.shields.io/github/stars/chenqi92/share?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="meshdrop stars" />
+
+<sub>Apple 全平台已上架 · Android / Windows / Linux / Web 开发中</sub>
 
 </td>
 </tr>
