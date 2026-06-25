@@ -11,34 +11,28 @@
   <text x="430" y="26" fill="#8b949e" font-size="13" text-anchor="middle">programApe@github: ~/dev — langstat</text>
 
   <!-- heading -->
-  <text x="26" y="78" font-size="15"><tspan fill="#27c93f">$</tspan><tspan fill="#c9d1d9" dx="9">langstat --top</tspan><tspan fill="#6e7681" dx="14" font-size="13"># 主要技术栈</tspan></text>
+  <text x="26" y="78" font-size="15"><tspan fill="#27c93f">$</tspan><tspan fill="#c9d1d9" dx="9">langstat --top</tspan><tspan fill="#6e7681" dx="14" font-size="13"># 主要技术栈 · 按代码量</tspan></text>
 
   <!-- bars -->
   <g font-size="14.5">
-    <!-- Rust -->
-    <text x="26" y="117" fill="#abb2bf">Rust</text>
+    <text x="26" y="117" fill="#abb2bf">TypeScript</text>
     <rect x="170" y="105" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="105" width="572" height="14" rx="7" fill="#dea584"/>
-    <!-- TypeScript -->
-    <text x="26" y="150" fill="#abb2bf">TypeScript</text>
+    <rect x="170" y="105" width="664" height="14" rx="7" fill="#3178c6"/>
+    <text x="26" y="150" fill="#abb2bf">Dart</text>
     <rect x="170" y="138" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="138" width="532" height="14" rx="7" fill="#3178c6"/>
-    <!-- Swift -->
-    <text x="26" y="183" fill="#abb2bf">Swift</text>
+    <rect x="170" y="138" width="445" height="14" rx="7" fill="#00b4ab"/>
+    <text x="26" y="183" fill="#abb2bf">Rust</text>
     <rect x="170" y="171" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="171" width="466" height="14" rx="7" fill="#f05138"/>
-    <!-- Dart -->
-    <text x="26" y="216" fill="#abb2bf">Dart</text>
+    <rect x="170" y="171" width="333" height="14" rx="7" fill="#dea584"/>
+    <text x="26" y="216" fill="#abb2bf">Swift</text>
     <rect x="170" y="204" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="204" width="424" height="14" rx="7" fill="#2bb5ab"/>
-    <!-- Java -->
-    <text x="26" y="249" fill="#abb2bf">Java</text>
+    <rect x="170" y="204" width="280" height="14" rx="7" fill="#f05138"/>
+    <text x="26" y="249" fill="#abb2bf">C</text>
     <rect x="170" y="237" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="237" width="386" height="14" rx="7" fill="#f0972a"/>
-    <!-- Python / C -->
-    <text x="26" y="282" fill="#abb2bf">Python · C</text>
+    <rect x="170" y="237" width="252" height="14" rx="7" fill="#a8b1bb"/>
+    <text x="26" y="282" fill="#abb2bf">Java</text>
     <rect x="170" y="270" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="270" width="306" height="14" rx="7" fill="#4b8bbe"/>
+    <rect x="170" y="270" width="225" height="14" rx="7" fill="#e3a33c"/>
   </g>
 
   <!-- cursor -->

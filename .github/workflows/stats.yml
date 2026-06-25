@@ -1,6 +1,6 @@
 name: Stats Card
 
-# 定时用 GitHub 公开数据重新生成 metrics/terminal.svg 并提交
+# 定时用 GitHub 公开数据重新生成统计卡片与技术栈条形图并提交
 # 仅读公开信息，使用默认 GITHUB_TOKEN，无需 PAT
 on:
   schedule:
@@ -10,6 +10,7 @@ on:
     branches: [main]
     paths:
       - "scripts/gen-stats-svg.sh"
+      - "scripts/gen-skills-svg.sh"
       - ".github/workflows/stats.yml"
 
 permissions:
@@ -23,21 +24,24 @@ jobs:
   gen:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate stats SVG
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bash scripts/gen-stats-svg.sh chenqi92
+
+      - name: Generate skills SVG
+        run: bash scripts/gen-skills-svg.sh chenqi92
 
       - name: Commit if changed
         run: |
-          if git diff --quiet -- metrics/terminal.svg; then
+          git add metrics/terminal.svg assets/skills.svg
+          if git diff --cached --quiet; then
             echo "no change"; exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics/terminal.svg
-          git commit -m "chore(stats): refresh terminal.svg"
+          git commit -m "chore(stats): refresh stats svg"
           git push
