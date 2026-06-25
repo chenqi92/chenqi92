@@ -22,32 +22,31 @@
 
 <b>primuse</b> &nbsp;<code>猿音</code> &nbsp;·&nbsp; iOS 音乐播放器
 
-横跨 NAS / WebDAV / 各类云盘的统一播放器——元数据刮削、歌词、
-CarPlay。开源，已上架 App Store。
+<sub>横跨 NAS / WebDAV / 各类云盘的统一播放器，支持元数据刮削、歌词与 CarPlay。已开源并上架 App Store。</sub>
 
-<a href="https://apps.apple.com/cn/app/%E7%8C%BF%E9%9F%B3/id6761675450">
-  <img src="https://img.shields.io/badge/Download_on_the-App_Store-0d1117?style=for-the-badge&logo=apple&logoColor=white" alt="primuse on App Store" />
-</a>
-&nbsp;
-<a href="https://github.com/chenqi92/primuse"><img src="https://img.shields.io/github/stars/chenqi92/primuse?style=for-the-badge&color=27c93f&labelColor=0d1117&logo=github&logoColor=white&label=src" alt="src" /></a>
+<a href="https://apps.apple.com/cn/app/%E7%8C%BF%E9%9F%B3/id6761675450"><img height="48" src="./assets/badge-appstore.svg" alt="在 App Store 下载 primuse" /></a>
+
+<a href="https://github.com/chenqi92/primuse"><img height="22" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="primuse source" /></a>
+<img height="22" src="https://img.shields.io/github/stars/chenqi92/primuse?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="primuse stars" />
 
 </td>
 <td width="50%" valign="top">
 
 <b>markio</b> &nbsp;·&nbsp; macOS Markdown 阅读器
 
-Markdown 阅读 / 文档浏览；AI 辅助笔记检索，把零散笔记沉淀为
-本地知识库。开源，已上架 Mac App Store。
+<sub>Markdown 阅读与文档浏览，AI 辅助笔记检索，把零散笔记沉淀为本地知识库。已开源并上架 Mac App Store。</sub>
 
-<a href="https://apps.apple.com/cn/app/markio/id6768647792">
-  <img src="https://img.shields.io/badge/Download_on_the-Mac_App_Store-0d1117?style=for-the-badge&logo=apple&logoColor=white" alt="markio on App Store" />
-</a>
-&nbsp;
-<a href="https://github.com/chenqi92/Markio"><img src="https://img.shields.io/github/stars/chenqi92/Markio?style=for-the-badge&color=27c93f&labelColor=0d1117&logo=github&logoColor=white&label=src" alt="src" /></a>
+<a href="https://apps.apple.com/cn/app/markio/id6768647792"><img height="48" src="./assets/badge-mac-appstore.svg" alt="在 Mac App Store 下载 markio" /></a>
+
+<a href="https://github.com/chenqi92/Markio"><img height="22" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="markio source" /></a>
+<img height="22" src="https://img.shields.io/github/stars/chenqi92/Markio?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="markio stars" />
 
 </td>
 </tr>
 </table>
+
+<!-- meshdrop 上架后在此追加第三个 td（或改为三列布局） -->
+<sub>meshdrop · 即将上架</sub>
 
 <!-- ============================== stack ============================== -->
 
