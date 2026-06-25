@@ -78,15 +78,15 @@
 | [`my-nas`](https://github.com/chenqi92/my-nas) | ![](https://img.shields.io/github/stars/chenqi92/my-nas?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Dart | NAS / WebDAV / SMB 媒体聚合成海报墙，全平台 |
 | [`allbs-model`](https://github.com/chenqi92/allbs-model) | ![](https://img.shields.io/github/stars/chenqi92/allbs-model?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Java | 高斯烟羽、池火灾扩散模型，AQI / 水质分级，JBF293K / GB26875 / SFJK200 报文解析 |
 | [`allbs-excel`](https://github.com/chenqi92/allbs-excel) | ![](https://img.shields.io/github/stars/chenqi92/allbs-excel?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Java | 基于注解的 Excel 导入导出：嵌套、合并、脱敏、图表 |
-| [`delier-helper`](https://github.com/chenqi92/delier-helper) | ![](https://img.shields.io/github/stars/chenqi92/delier-helper?style=flat-square&color=27c93f&labelColor=0d1117&label=) | JS | 交付工具箱：著作权源码 + API / 库 / 规范文档，AI 辅助 |
-| [`poi-collector`](https://github.com/chenqi92/poi-collector) | ![](https://img.shields.io/github/stars/chenqi92/poi-collector?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS | 多地图 POI / 瓦片 / 水深 / 边界数据采集 |
-| [`Pier-X`](https://github.com/chenqi92/Pier-X) | ![](https://img.shields.io/github/stars/chenqi92/Pier-X?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS | 通过 SSH 隧道驱动 DB / Web / 防火墙 / SFTP 的终端 |
-| [`inflowave`](https://github.com/chenqi92/inflowave) | ![](https://img.shields.io/github/stars/chenqi92/inflowave?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS | InfluxDB 1/2/3、IoTDB、MinIO 客户端，多平台构建 |
+| [`delier-helper`](https://github.com/chenqi92/delier-helper) | ![](https://img.shields.io/github/stars/chenqi92/delier-helper?style=flat-square&color=27c93f&labelColor=0d1117&label=) | JS · Vue | 交付工具箱：著作权源码 + API / 库 / 规范文档，AI 辅助 |
+| [`poi-collector`](https://github.com/chenqi92/poi-collector) | ![](https://img.shields.io/github/stars/chenqi92/poi-collector?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS · Rust | 多地图 POI / 瓦片 / 水深 / 边界数据采集 |
+| [`Pier-X`](https://github.com/chenqi92/Pier-X) | ![](https://img.shields.io/github/stars/chenqi92/Pier-X?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS · Rust | 通过 SSH 隧道驱动 DB / Web / 防火墙 / SFTP 的终端 |
+| [`inflowave`](https://github.com/chenqi92/inflowave) | ![](https://img.shields.io/github/stars/chenqi92/inflowave?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS · Rust | InfluxDB 1/2/3、IoTDB、MinIO 客户端，多平台构建 |
 | [`weight-scale`](https://github.com/chenqi92/weight-scale) | ![](https://img.shields.io/github/stars/chenqi92/weight-scale?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Java | 地磅称重协议解析 |
-| [`protoforge`](https://github.com/chenqi92/protoforge) | ![](https://img.shields.io/github/stars/chenqi92/protoforge?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS | 离线接口测试：HTTP / WS / SSE / MQTT / TCP / UDP / 抓包 / 压测（Tauri + React + Rust） |
+| [`protoforge`](https://github.com/chenqi92/protoforge) | ![](https://img.shields.io/github/stars/chenqi92/protoforge?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS · Rust | 离线接口测试：HTTP / WS / SSE / MQTT / TCP / UDP / 抓包 / 压测 |
 | [`pc-toxic-and-harmful`](https://github.com/chenqi92/pc-toxic-and-harmful) | ![](https://img.shields.io/github/stars/chenqi92/pc-toxic-and-harmful?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Java | 有毒有害气体数据接收（HJ212-2017），入 InfluxDB，阈值报警入 Redis |
-| [`NanoLink`](https://github.com/chenqi92/NanoLink) | ![](https://img.shields.io/github/stars/chenqi92/NanoLink?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Rust | 轻量跨平台服务器监控，Rust agent + 多语言 SDK |
-| [`share`](https://github.com/chenqi92/share) | ![](https://img.shields.io/github/stars/chenqi92/share?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Swift | MeshDrop · 跨平台局域网快传，类 AirDrop，各端原生实现 |
+| [`NanoLink`](https://github.com/chenqi92/NanoLink) | ![](https://img.shields.io/github/stars/chenqi92/NanoLink?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Rust · Go · TS | 轻量跨平台服务器监控，Rust agent + 多语言 SDK |
+| [`share`](https://github.com/chenqi92/share) | ![](https://img.shields.io/github/stars/chenqi92/share?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Swift · Rust · Kotlin | MeshDrop · 跨平台局域网快传，类 AirDrop，各端原生实现 |
 
 <sub><a href="https://github.com/chenqi92?tab=repositories&sort=stargazers">❯ ls --all ~/projects</a></sub>
 
