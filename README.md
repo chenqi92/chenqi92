@@ -18,35 +18,43 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<b>primuse</b> &nbsp;<code>猿音</code> &nbsp;·&nbsp; iOS 音乐播放器
+<b>primuse</b> &nbsp;<code>猿音</code><br/><sub>iOS 音乐播放器</sub>
 
-<sub>横跨 NAS / WebDAV / 各类云盘的统一播放器，支持元数据刮削、歌词与 CarPlay。已开源并上架 App Store。</sub>
+<sub>横跨 NAS / WebDAV / 各类云盘的统一播放器，支持刮削、歌词与 CarPlay。</sub>
 
-<a href="https://apps.apple.com/cn/app/%E7%8C%BF%E9%9F%B3/id6761675450"><img height="48" src="./assets/badge-appstore.svg" alt="在 App Store 下载 primuse" /></a>
+<a href="https://apps.apple.com/cn/app/%E7%8C%BF%E9%9F%B3/id6761675450"><img height="46" src="./assets/badge-appstore.svg" alt="在 App Store 下载 primuse" /></a>
 
-<a href="https://github.com/chenqi92/primuse"><img height="22" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="primuse source" /></a>
-<img height="22" src="https://img.shields.io/github/stars/chenqi92/primuse?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="primuse stars" />
+<a href="https://github.com/chenqi92/primuse"><img height="20" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="primuse source" /></a>
+<img height="20" src="https://img.shields.io/github/stars/chenqi92/primuse?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="primuse stars" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<b>markio</b> &nbsp;·&nbsp; macOS Markdown 阅读器
+<b>markio</b><br/><sub>macOS Markdown 阅读器</sub>
 
-<sub>Markdown 阅读与文档浏览，AI 辅助笔记检索，把零散笔记沉淀为本地知识库。已开源并上架 Mac App Store。</sub>
+<sub>Markdown 阅读与文档浏览，AI 辅助检索，把零散笔记沉淀为本地知识库。</sub>
 
-<a href="https://apps.apple.com/cn/app/markio/id6768647792"><img height="48" src="./assets/badge-mac-appstore.svg" alt="在 Mac App Store 下载 markio" /></a>
+<a href="https://apps.apple.com/cn/app/markio/id6768647792"><img height="46" src="./assets/badge-mac-appstore.svg" alt="在 Mac App Store 下载 markio" /></a>
 
-<a href="https://github.com/chenqi92/Markio"><img height="22" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="markio source" /></a>
-<img height="22" src="https://img.shields.io/github/stars/chenqi92/Markio?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="markio stars" />
+<a href="https://github.com/chenqi92/Markio"><img height="20" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="markio source" /></a>
+<img height="20" src="https://img.shields.io/github/stars/chenqi92/Markio?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="markio stars" />
+
+</td>
+<td width="33%" valign="top">
+
+<b>MeshDrop</b><br/><sub>全平台局域网快传</sub>
+
+<sub>同一 Wi-Fi 下设备间快传文字与文件，无需云端，无需数据线。</sub>
+
+<a href="https://apps.apple.com/cn/app/meshdrop/id6772689903"><img height="46" src="./assets/badge-appstore.svg" alt="在 App Store 下载 MeshDrop" /></a>
+
+<sub>iOS · iPadOS · macOS · watchOS · visionOS</sub>
 
 </td>
 </tr>
 </table>
-
-<!-- meshdrop 上架后在此追加第三个 td（或改为三列布局） -->
-<sub>meshdrop · 即将上架</sub>
 
 <!-- ============================== stack ============================== -->
 
