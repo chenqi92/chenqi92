@@ -20,7 +20,7 @@
     <rect x="170" y="105" width="664" height="14" rx="7" fill="#3178c6"/>
     <text x="26" y="150" fill="#abb2bf">Dart</text>
     <rect x="170" y="138" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="138" width="446" height="14" rx="7" fill="#00b4ab"/>
+    <rect x="170" y="138" width="447" height="14" rx="7" fill="#00b4ab"/>
     <text x="26" y="183" fill="#abb2bf">Rust</text>
     <rect x="170" y="171" width="664" height="14" rx="7" fill="#21262d"/>
     <rect x="170" y="171" width="339" height="14" rx="7" fill="#dea584"/>
