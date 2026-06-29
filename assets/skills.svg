@@ -20,19 +20,19 @@
     <rect x="170" y="105" width="664" height="14" rx="7" fill="#3178c6"/>
     <text x="26" y="150" fill="#abb2bf">Dart</text>
     <rect x="170" y="138" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="138" width="439" height="14" rx="7" fill="#00b4ab"/>
+    <rect x="170" y="138" width="438" height="14" rx="7" fill="#00b4ab"/>
     <text x="26" y="183" fill="#abb2bf">Rust</text>
     <rect x="170" y="171" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="171" width="332" height="14" rx="7" fill="#dea584"/>
+    <rect x="170" y="171" width="331" height="14" rx="7" fill="#dea584"/>
     <text x="26" y="216" fill="#abb2bf">Swift</text>
     <rect x="170" y="204" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="204" width="273" height="14" rx="7" fill="#f05138"/>
+    <rect x="170" y="204" width="272" height="14" rx="7" fill="#f05138"/>
     <text x="26" y="249" fill="#abb2bf">C</text>
     <rect x="170" y="237" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="237" width="246" height="14" rx="7" fill="#a8b1bb"/>
+    <rect x="170" y="237" width="245" height="14" rx="7" fill="#a8b1bb"/>
     <text x="26" y="282" fill="#abb2bf">Java</text>
     <rect x="170" y="270" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="270" width="219" height="14" rx="7" fill="#e3a33c"/>
+    <rect x="170" y="270" width="218" height="14" rx="7" fill="#e3a33c"/>
   </g>
 
   <!-- cursor -->
