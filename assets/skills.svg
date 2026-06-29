@@ -23,7 +23,7 @@
     <rect x="170" y="138" width="439" height="14" rx="7" fill="#00b4ab"/>
     <text x="26" y="183" fill="#abb2bf">Rust</text>
     <rect x="170" y="171" width="664" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="171" width="333" height="14" rx="7" fill="#dea584"/>
+    <rect x="170" y="171" width="332" height="14" rx="7" fill="#dea584"/>
     <text x="26" y="216" fill="#abb2bf">Swift</text>
     <rect x="170" y="204" width="664" height="14" rx="7" fill="#21262d"/>
     <rect x="170" y="204" width="273" height="14" rx="7" fill="#f05138"/>
