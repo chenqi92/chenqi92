@@ -34,7 +34,7 @@
   </g>
 
   <!-- secondary line -->
-  <text x="26" y="248" font-size="13.5" fill="#abb2bf">原创仓库 <tspan fill="#c9d1d9">66</tspan>  ·  Fork <tspan fill="#c9d1d9">63</tspan>  ·  Following <tspan fill="#c9d1d9">5</tspan>  ·  主力语言 <tspan fill="#dea584">Rust</tspan> / <tspan fill="#3178c6">TypeScript</tspan> / <tspan fill="#f05138">Swift</tspan></text>
+  <text x="26" y="248" font-size="13.5" fill="#abb2bf">原创仓库 <tspan fill="#c9d1d9">66</tspan>  ·  Fork <tspan fill="#c9d1d9">64</tspan>  ·  Following <tspan fill="#c9d1d9">5</tspan>  ·  主力语言 <tspan fill="#dea584">Rust</tspan> / <tspan fill="#3178c6">TypeScript</tspan> / <tspan fill="#f05138">Swift</tspan></text>
 
   <!-- note -->
   <text x="26" y="278" font-size="12.5" fill="#6e7681"># 截至 2026-07 · 基于 GitHub 公开数据自动统计</text>
