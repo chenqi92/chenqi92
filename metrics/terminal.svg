@@ -20,10 +20,10 @@
 
   <!-- tiles -->
   <g text-anchor="middle">
-    <text x="108" y="170" font-size="42" font-weight="700" fill="#39d353">239</text>
+    <text x="108" y="170" font-size="42" font-weight="700" fill="#39d353">240</text>
     <text x="108" y="198" font-size="13" fill="#8b949e">获得 Star</text>
 
-    <text x="323" y="170" font-size="42" font-weight="700" fill="#39d353">140</text>
+    <text x="323" y="170" font-size="42" font-weight="700" fill="#39d353">141</text>
     <text x="323" y="198" font-size="13" fill="#8b949e">公开仓库</text>
 
     <text x="538" y="170" font-size="42" font-weight="700" fill="#39d353">32</text>
