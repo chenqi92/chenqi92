@@ -12,13 +12,13 @@
 
 </div>
 
-<!-- ============================ app store ============================ -->
+<!-- ========================== apps & services ========================= -->
 
-## ❯ 应用商店
+## ❯ 应用与服务
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 <b>primuse</b> &nbsp;<code>猿音</code><br/><sub>iOS 音乐播放器</sub>
 
@@ -30,7 +30,7 @@
 <img height="20" src="https://img.shields.io/github/stars/chenqi92/primuse?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="primuse stars" />
 
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 <b>markio</b><br/><sub>macOS Markdown 阅读器</sub>
 
@@ -42,7 +42,7 @@
 <img height="20" src="https://img.shields.io/github/stars/chenqi92/Markio?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="markio stars" />
 
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 <b>MeshDrop</b><br/><sub>跨平台局域网快传 · 类 AirDrop</sub>
 
@@ -56,7 +56,21 @@
 <sub>Apple 全平台已上架 · Android / Windows / Linux / Web 开发中</sub>
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<b>NanoOps</b><br/><sub>iOS / iPadOS / macOS 服务器运维</sub>
+
+<sub>NanoLink 的原生客户端，连接自建服务，实时监控主机状态并执行权限受控的远程操作。</sub>
+
+<a href="https://apps.apple.com/app/nanoops/id6799890021"><img height="46" src="./assets/badge-appstore.svg" alt="在 App Store 下载 NanoOps" /></a>
+
+<a href="https://github.com/chenqi92/NanoLink"><img height="20" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="NanoLink source" /></a>
+<img height="20" src="https://img.shields.io/github/stars/chenqi92/NanoLink?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="NanoLink stars" />
+
+</td>
+<td width="33%" valign="top">
 
 <b>项目环境管家</b><br/><sub>Chrome 凭据管理扩展</sub>
 
@@ -66,6 +80,15 @@
 
 <a href="https://github.com/chenqi92/project-manager"><img height="20" src="https://img.shields.io/badge/Source-21262d?style=flat-square&logo=github&logoColor=white" alt="project-manager source" /></a>
 <img height="20" src="https://img.shields.io/github/stars/chenqi92/project-manager?style=flat-square&label=Star&color=27c93f&labelColor=21262d" alt="project-manager stars" />
+
+</td>
+<td width="33%" valign="top">
+
+<b>G2.AL</b><br/><sub>免费临时邮箱</sub>
+
+<sub>免费生成一次性邮箱，避免暴露真实邮箱地址；邮件将在 24 小时后自动删除。</sub>
+
+<a href="https://g2.al/"><img height="28" src="https://img.shields.io/badge/免费使用-g2.al-27c93f?style=for-the-badge&labelColor=0d1117&logo=minutemailer&logoColor=white" alt="免费使用 G2.AL 临时邮箱" /></a>
 
 </td>
 </tr>
@@ -98,7 +121,7 @@
 | [`protoforge`](https://github.com/chenqi92/protoforge) | ![](https://img.shields.io/github/stars/chenqi92/protoforge?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS · Rust | 离线接口测试：HTTP / WS / SSE / MQTT / TCP / UDP / 抓包 / 压测 |
 | [`pc-toxic-and-harmful`](https://github.com/chenqi92/pc-toxic-and-harmful) | ![](https://img.shields.io/github/stars/chenqi92/pc-toxic-and-harmful?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Java | 有毒有害气体数据接收（HJ212-2017），入 InfluxDB，阈值报警入 Redis |
 | [`project-manager`](https://github.com/chenqi92/project-manager) | ![](https://img.shields.io/github/stars/chenqi92/project-manager?style=flat-square&color=27c93f&labelColor=0d1117&label=) | TS | Chrome 扩展：按项目 / 环境 / 平台管理与自动填充登录凭据，主密码本地端到端加密 |
-| [`NanoLink`](https://github.com/chenqi92/NanoLink) | ![](https://img.shields.io/github/stars/chenqi92/NanoLink?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Rust · Go · TS | 轻量跨平台服务器监控，Rust agent + 多语言 SDK |
+| [`NanoLink`](https://github.com/chenqi92/NanoLink) | ![](https://img.shields.io/github/stars/chenqi92/NanoLink?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Rust · Go · TS | 开源自托管服务器监控与远程运维：Rust agent、多语言 SDK、Web 控制台及 NanoOps 客户端 |
 | [`share`](https://github.com/chenqi92/share) | ![](https://img.shields.io/github/stars/chenqi92/share?style=flat-square&color=27c93f&labelColor=0d1117&label=) | Swift · Rust · Kotlin | MeshDrop · 跨平台局域网快传，类 AirDrop，各端原生实现 |
 
 <sub><a href="https://github.com/chenqi92?tab=repositories&sort=stargazers">❯ ls --all ~/projects</a></sub>
